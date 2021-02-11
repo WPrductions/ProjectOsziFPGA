@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <systemtable filter="unnamed.clk" showClockDomains="1" showResetDomains="0">
+  <columns>
+   <connections preferredWidth="31" />
+   <irq preferredWidth="34" />
+   <name preferredWidth="373" />
+  </columns>
+ </systemtable>
+ <library expandedCategories="Library,Project" />
+ <window width="1938" height="1060" x="-9" y="-9" />
+ <generation synthesis="VHDL" />
+ <hdlexample language="VHDL" />
+</preferences>
